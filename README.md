@@ -7,4 +7,5 @@ PEP-257: https://peps.python.org/pep-0257/
 
 **Zad. 0** <br />
 Pobierz repozytorium na lokalne środowisko. Znajdziesz tam pliki z wstępnie skonfigurowanymi zadaniami. <br /> <br />
-**Zad.1**
+**Zad.1 - Układ kodu**<br />
+Kod zamieszczony w zadaniu pierwszym ma wiele problemów związanych z układem kodu. Popraw kod, nie zmieniając logiki zadania - wynik działania programu nie może ulec zmianie. Zadanie znajdziesz w pliku zad1.py. W razie problemów, rozwiązane zadanie znajdziesz w pliku zad1_fixed.py.
