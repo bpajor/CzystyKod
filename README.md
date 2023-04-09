@@ -15,3 +15,12 @@ Zbyt duża ilość lub brak białych znaków może bardzo zaburzyć czytelność
 Konwencje nazw to bardzo ważny i przydatny mechanizm nazywania różnych narzędzi (głównie zmiennych, funkcji i klas). Brak trzymanie się standardu może powodować ogromne problemy z czytelnością lub nawet dostępem do zmiennych! W pliku [zad.3](https://github.com/bpajor/CzystyKod/blob/master/zad3/zad3.py) znajduje się kod który nie dotrzymuje podstawowych konwencji. Popraw kod, nie zmieniając logiki kodu. Znajduje się w nim również linia która nie powinna działać, znajdź ją i zakomentuj. W razie problemów, rozwiązane zadanie znajdziesz w pliku [zad.3_fixed](https://github.com/bpajor/CzystyKod/blob/master/zad3/zad3_fixed.py)<br /><br />
 ## **Zad.4 - Zalecenia logiki programowania**<br />
 Pisanie logiki w czytelny sposób jest jednym z najważniejszych aspektów pisania czystego kodu. Zrozumiała logika jest dużo prostsza w odczytywaniu i ułatwia analizowanie kodu. W pliku [zad.4](https://github.com/bpajor/CzystyKod/blob/master/zad4/zad4.py) znajduje się kod, który nie realizuje tego aspektu. Popraw ten kod, trzymając się zaleceń. W razie problemów, rozwiązane zadanie znajdziesz w pliku [zad.4_fixed](https://github.com/bpajor/CzystyKod/blob/master/zad4/zad4_fixed.py)<br /><br />
+## **Zad.5 - Komentarze i Doc Stringi**<br />
+Odpowiednie komentowanie kodu i dokumentacja pozwala dobrze i w sposób ustrukturyzowany przechowywać nasz kod. W pliku [zad.5](https://github.com/bpajor/CzystyKod/blob/master/zad5/zad5.p) znajduje się kod który zawiera błędy w komentarzach oraz dokumentacji. Zmodyfikuj kod, aby w wyniku działania programu został zwrócony następujący ciąg znaków:<br /><br />
+Takes three numbers and returns their product. - - jeśli uważasz że ten tekst nie odzwierciedla zasad dokumentacji - zmień go
+concat(mess_one, mess_two) -> mess_one + mess_two - jeśli uważasz że ten tekst nie odzwierciedla zasad dokumentacji - zmień go
+
+    Takes number and returns this number increased by 3.
+
+    Input keyword: num (default: 0)
+    Returns: Integer
