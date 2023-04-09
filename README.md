@@ -17,10 +17,9 @@ Konwencje nazw to bardzo ważny i przydatny mechanizm nazywania różnych narzę
 Pisanie logiki w czytelny sposób jest jednym z najważniejszych aspektów pisania czystego kodu. Zrozumiała logika jest dużo prostsza w odczytywaniu i ułatwia analizowanie kodu. W pliku [zad.4](https://github.com/bpajor/CzystyKod/blob/master/zad4/zad4.py) znajduje się kod, który nie realizuje tego aspektu. Popraw ten kod, trzymając się zaleceń. W razie problemów, rozwiązane zadanie znajdziesz w pliku [zad.4_fixed](https://github.com/bpajor/CzystyKod/blob/master/zad4/zad4_fixed.py)<br /><br />
 ## **Zad.5 - Komentarze i Doc Stringi**<br />
 Odpowiednie komentowanie kodu i dokumentacja pozwala dobrze i w sposób ustrukturyzowany przechowywać nasz kod. W pliku [zad.5](https://github.com/bpajor/CzystyKod/blob/master/zad5/zad5.p) znajduje się kod który zawiera błędy w komentarzach oraz dokumentacji. Zmodyfikuj kod, aby w wyniku działania programu został zwrócony następujący ciąg znaków:<br /><br />
-Takes three numbers and returns their product. - - jeśli uważasz że ten tekst nie odzwierciedla zasad dokumentacji - zmień go
-concat(mess_one, mess_two) -> mess_one + mess_two - jeśli uważasz że ten tekst nie odzwierciedla zasad dokumentacji - zmień go
-
-    Takes number and returns this number increased by 3.
-
-    Input keyword: num (default: 0)
-    Returns: Integer
+1.``Takes three numbers and returns their product.`` <br />
+2.``concat(mess_one, mess_two) -> mess_one + mess_two`` <br />
+3.``Input keyword: num (default: 0)`` <br />
+    ``Returns: Integer`` <br />
+    ``Takes number and returns this number increased by 3.`` <br /> <br />
+Jeśli uważasz, że któryś z powyższych tekstów dokumentacji nie zgadza się z przyjętymi zasadami, zmień go.
