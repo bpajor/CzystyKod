@@ -22,4 +22,5 @@ Odpowiednie komentowanie kodu i dokumentacja pozwala dobrze i w sposób ustruktu
 3.``Input keyword: num (default: 0)`` <br />
     ``Returns: Integer`` <br />
     ``Takes number and returns this number increased by 3.`` <br /> <br />
-Jeśli uważasz, że któryś z powyższych tekstów dokumentacji nie zgadza się z przyjętymi zasadami, zmień go.
+Jeśli uważasz, że któryś z powyższych tekstów dokumentacji nie zgadza się z przyjętymi zasadami, zmień go. <br /><br />
+W razie problemów, rozwiązane zadanie znajdziesz w pliku [zad.5_fixed](https://github.com/bpajor/CzystyKod/blob/master/zad5/zad5_fixed.py)
