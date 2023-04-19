@@ -16,7 +16,7 @@ Konwencje nazw to bardzo ważny i przydatny mechanizm nazywania różnych narzę
 ## **Zad.4 - Zalecenia logiki programowania**<br />
 Pisanie logiki w czytelny sposób jest jednym z najważniejszych aspektów pisania czystego kodu. Zrozumiała logika jest dużo prostsza w odczytywaniu i ułatwia analizowanie kodu.<br/> W pliku [zad.4](https://github.com/bpajor/CzystyKod/blob/master/zad4/zad4.py) znajduje się kod, który nie realizuje tego aspektu. Popraw ten kod, trzymając się zaleceń.<br/> <br />
 ## **Zad.5 - Komentarze i Doc Stringi**<br />
-Odpowiednie komentowanie kodu i dokumentacja pozwala dobrze i w sposób ustrukturyzowany przechowywać nasz kod.<br/> W pliku [zad.5](https://github.com/bpajor/CzystyKod/blob/master/zad5/zad5.p) znajduje się kod który zawiera błędy w komentarzach oraz dokumentacji. Zmodyfikuj kod, aby w wyniku działania programu został zwrócony następujący ciąg znaków:<br /><br />
+Odpowiednie komentowanie kodu i dokumentacja pozwala dobrze i w sposób ustrukturyzowany przechowywać nasz kod.<br/> W pliku [zad.5](https://github.com/bpajor/CzystyKod/blob/master/zad5/zad5.py) znajduje się kod który zawiera błędy w komentarzach oraz dokumentacji. Przyjmij że kod jest pisany przez ludzi nie posługujących się językiem polskim. Zmodyfikuj kod, aby w wyniku działania programu został zwrócony następujący ciąg znaków:<br /><br />
 1.``Takes three numbers and returns their product.`` <br />
 2.``concat(mess_one, mess_two) -> mess_one + mess_two`` <br />
 3.``Input keyword: num (default: 0)`` <br />
