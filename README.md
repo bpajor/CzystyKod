@@ -24,3 +24,4 @@ Odpowiednie komentowanie kodu i dokumentacja pozwala dobrze i w sposób ustruktu
     ``Takes number and returns this number increased by 3.`` <br /> <br />
 Jeśli uważasz, że któryś z powyższych tekstów dokumentacji nie zgadza się z przyjętymi zasadami, zmień go. <br /><br />
 
+Repozytorium z rozwiązaniami: [rozwiązania]https://github.com/bpajor/rozwiazania <br /><br />
